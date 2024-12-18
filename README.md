@@ -1,4 +1,4 @@
-While happy in the ivory towers of learning, I do not forget to make my rigorous studies in mathematics and economics applicable to fields like finance and analytics through proficiency with tools and skills for quantitative modeling and actionable insights. If this sounds potentially valuable for your organization, please reach out, and I'd be thrilled to take a break from lamenting the Battle of Nancy to discuss opportunities!
+Hello! I’m currently looking for internship opportunities in finance or other industries where I can exercise my strong quantitative abilities. Apart from developing an efficient mindset of both logical and creative thinking, my rigorous studies in mathematics and economics have equipped me with the analytical skills and technical tools to model real-world processes and provide actionable insights. If any of this sounds potentially valuable to your organization, please don’t hesitate to reach out, and I’d be happy to talk!
 
 <!---
 aster-yz-li/aster-yz-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
